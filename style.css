@@ -2,9 +2,23 @@ body {
     background-color: whitesmoke;
 }
 
-div {
+#main {
     border-style: solid;
+    border-color: red;
+    border-width: 1px;
     margin: auto;
     padding: 10px;
     position: relative;
+    width: 350px;
+    height: 500px;
+    text-align: center;
+}
+
+#UP-section {
+    border-style: solid;
+    border-color: blue;
+    border-width: 1px;
+    margin: 20px;
+    padding: 50px;
+    position: center;
 }
